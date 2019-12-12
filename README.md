@@ -2,7 +2,7 @@
 # Java application JDBC, Transaction, Consultas parametrizadas
 
 CRUD desde app consola hacia una base de datos 
-mysql test.persona con JDBC Transaccional
+mysql test.persona con JDBC, Transaccional y Pool de Conexiones
 
 Se añade la capa de DAO para manejo de consultas
 con JDBC utilizando transaccionalidad.
