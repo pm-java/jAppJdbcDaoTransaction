@@ -6,7 +6,7 @@
 package com.dto;
 
 /**
- *
+ * Representa los datos de la tabla Persona
  * @author PM
  */
 public class PersonaDto {

@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- *
+ * Interface para los métodos de Persona
  * @author PM
  */
 public interface IPersonaDao {

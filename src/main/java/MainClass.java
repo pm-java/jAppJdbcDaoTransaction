@@ -17,6 +17,12 @@ public class MainClass {
     
     private static final Logger LOG = Logger.getLogger(MainClass.class.getName());
     
+    
+    
+    /***
+     * Metodo main donde se invocan todos los ejemplos de CRUD hacia personas
+     * @param args 
+     */
     public static void main(String[] args) {        
         
         Connection conection = null;

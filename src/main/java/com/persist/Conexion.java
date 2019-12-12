@@ -15,7 +15,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- *
+ * Clase para manejar la conexion a la base de datos
  * @author PM
  */
 public class Conexion {

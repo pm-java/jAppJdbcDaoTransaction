@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.logging.Logger;
 
 /**
- *
+ * Implementación de los métodos de Persona
  * @author PM
  */
 public class PersonaDaoJDBC implements IPersonaDao {
