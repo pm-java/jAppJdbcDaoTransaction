@@ -1,5 +1,5 @@
 
-## Proyecto de escritorio en Java
+# Java application JDBC, Transaction, Consultas parametrizadas
 
 CRUD desde app consola hacia una base de datos 
 mysql test.persona con JDBC Transaccional
@@ -13,7 +13,7 @@ PrepareStatement
 Transaction
 
 
-# base de datos
+## base de datos
 show VARIABLES where VARIABLE_NAME IN('hostname', 'port')
 
 select @@version
