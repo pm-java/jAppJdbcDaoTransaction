@@ -1,0 +1,14 @@
+# archivo para ignorar datos
+
+#compiled out
+/target
+
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
