@@ -12,6 +12,8 @@ Statement
 PrepareStatement
 Transaction
 
+
+# base de datos
 show VARIABLES where VARIABLE_NAME IN('hostname', 'port')
 
 select @@version
